@@ -10,5 +10,5 @@ public class supplierDto {
     private String supplierAddress;
     private String supplierEmail;
 
-    
+
 }
